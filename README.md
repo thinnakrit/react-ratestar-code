@@ -4,7 +4,7 @@
 
 ### Star component usage
 
-```
+```javascript
 <RateStar
   isDisplayFullStar={true}
   rateCount={2.1}

@@ -10,3 +10,11 @@
   rateCount={2.1}
 />
 ```
+
+### Required dependecies
+
+```
+- styled-components
+- react-icons/md
+- lodash
+```

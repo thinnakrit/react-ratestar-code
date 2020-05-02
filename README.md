@@ -18,7 +18,7 @@ Can copy code to customized on your website :]
 ```javascript
 rateCount: PropTypes.string, // default null
 ratestyle: PropTypes.object, // default null
-isDisplayFullStar: PropTypes.bool, // default false
+isDisplayFullStar: PropTypes.bool, // default false , change to true for display full star
 fullStar: PropTypes.number, // default 5
 ```
 

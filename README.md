@@ -4,7 +4,7 @@ Can copy code to customized on your website :]
 
 <img src="https://raw.githubusercontent.com/thinnakrit/react-ratestar-code/master/Screen%20Shot%202563-05-02%20at%2018.22.41.png" width="150" />
 
-### Star component usage
+### Star component usaged
 
 ```javascript
 <RateStar
@@ -22,7 +22,7 @@ isDisplayFullStar: PropTypes.bool, // default false , change to true for display
 fullStar: PropTypes.number, // default 5
 ```
 
-### Required dependecies
+### Required dependencies
 
 ```
 - styled-components

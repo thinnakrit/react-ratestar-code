@@ -42,6 +42,7 @@ const RateStar = React.memo(
 							if (starCount === index && isHarfStar) {
 								return (
 									<StarHalfIcon
+										key={`star-icon-${uniqueId()}`}
 										ratestyle={
 											ratestyle ? ratestyle.star : {}
 										}
@@ -50,6 +51,7 @@ const RateStar = React.memo(
 							}
 							return (
 								<StarBorderIcon
+									key={`star-icon-${uniqueId()}`}
 									ratestyle={
 										ratestyle ? ratestyle.star : {}
 									}

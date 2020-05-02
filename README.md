@@ -13,6 +13,15 @@ Can copy code to customized on your website :]
 />
 ```
 
+### Star Props
+
+```javascript
+rateCount: PropTypes.string, // default null
+ratestyle: PropTypes.object, // default null
+isDisplayFullStar: PropTypes.bool, // default false
+fullStar: PropTypes.number, // default 5
+```
+
 ### Required dependecies
 
 ```
